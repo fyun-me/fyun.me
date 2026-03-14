@@ -1,16 +1,16 @@
 # Fyun机场官网地址
 
-最新地址：[fyun.me]([https://nxonearth.com/signupbyemail.aspx?MemberCode=2d7ae3b7b19840c1a520e4181f355e8f20230428100531](https://a.wyun.me/auth/register?code=jjqM))
+最新地址：[fyun.me](https://a.wyun.me/auth/register?code=jjqM)
 
 ## 简介
 
 Fyun机场是一家成立于2017年的翻墙机场，支持 Shadowsocks、VMess 多种专用翻墙协议。
 
-Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为自主开发，彰显技术实力，同时采用高端专线出墙，国内多线服务器接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。
+Fyun 不同于那些采用 SSpanel和V2board 面板的机场，其面板为自主开发，彰显技术实力，同时采用高端专线出墙，国内多线服务器接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。
 
 针对个人用户，Nexitally 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
 
-## Nexitally优惠码
+## Fyun优惠码
 
 [圣诞节🎄优惠活动]
 
