@@ -6,23 +6,23 @@
 
 Fyun机场是一家成立于2017年的翻墙机场，支持 Shadowsocks、VMess 多种专用翻墙协议。
 
-Fyun 不同于那些采用 SSpanel和V2board 面板的机场，其面板为自主开发，彰显技术实力，同时采用高端专线出墙，国内多线服务器接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。
+Fyun 采用独家隧道加密技术安全快速通过防火墙的审查阻断，同时采用高端线路出墙，国内多线服务器智能接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。
 
-针对个人用户，Nexitally 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
+针对个人用户，Fyun 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
 
 ## Fyun优惠码
 
-[圣诞节🎄优惠活动]
+[2026🎄优惠活动]
 
-🎁充值满1000元 赠送100元账户余额 所有用户适用
+🎁购买任意会员套餐 立减30% 所有用户适用
 
 🎈Smart Access Air限时新用户开放购买
 
-有效期至  2023-12-27
+有效期至  2026-6-30
 
-## Nexitally机场怎么样
+## Fyun机场怎么样
 
-[Fyun机场怎么样？]([https://fyun.ne/how-about-nexitally](https://a.wyun.me/auth/register?code=jjqM))
+[Fyun机场怎么样？](https://fyun.me/auth/register?code=jjqM)
 
 ## 特色
 
