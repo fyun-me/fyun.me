@@ -33,7 +33,7 @@ Fyun 采用独家隧道加密技术安全快速通过防火墙的审查阻断，
 * 智能接入点分配
 * 最高可达1000Mbps带宽
 * 支持路由器的流媒体解锁
-* Netflix、Spotify、Disney+、ChatGPT 3.5会员专属服务
+* Netflix、Spotify、Disney+、ChatGPT等流媒体解锁服务
 
 ## 套餐列表
 
