@@ -1,6 +1,8 @@
 # Fyun机场官网地址
 
-最新地址：[fyun.me](https://a.wyun.me/auth/register?code=jjqM)
+最新地址：
+[fyun.me](https://fyun.me/auth/register?code=jjqM) 【屏蔽大陆】
+[a.fyun.me](https://a.fyun.me/auth/register?code=jjqM)【大陆入口】
 
 ## 简介
 
