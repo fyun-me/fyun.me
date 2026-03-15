@@ -41,11 +41,11 @@ Fyun 采用独家隧道加密技术安全快速通过防火墙的审查阻断，
 
 **标准套餐服务**
 
-![image](https://raw.githubusercontent.com/fyun-me/fyun.me/main/bz1.png)
+![image](https://raw.githubusercontent.com/fyun-me/fyun.me/main/1.png)
 
 **高级套餐服务**
 
-![image](https://raw.githubusercontent.com/fyun-me/fyun.me/main/gj1.png)
+![image](https://raw.githubusercontent.com/fyun-me/fyun.me/main/2.png)
 
 **推广邀请注册**
 
